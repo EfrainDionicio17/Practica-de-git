@@ -25,6 +25,8 @@ Me llamo Efrain y estudio en la facultad de informática UAQ
 ## mi gusto
 ![foto de mis gust...](mascota.jpg)
 
+## Que quiero aprender?
+> quiero aprender a utilizar el manejo de versiones y poder usar las ventajas que ccon lleva usarlo, para así poder tener una mejor formación 
 
 
 ## mi quote favorita
